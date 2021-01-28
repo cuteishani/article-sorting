@@ -1,0 +1,73 @@
+[
+    {
+        "title": "The Shawshank Redemption",
+        "upVotes": 5,
+        "date": "Mar 02 2021 10:00:00 AM"
+    },
+    {
+        "title": "The Godfather",
+        "upVotes": 1,
+        "date": "Mar 11 2021 10:00:00 AM"
+    },
+    {
+        "title": "The Godfather: Part II",
+        "upVotes": 6,
+        "date": "Mar 30 2021 10:00:00 AM"
+    },
+    {
+        "title": "The Dark Knight",
+        "upVotes": 8,
+        "date": "Mar 26 2021 10:00:00 AM"
+    },
+    {
+        "title": "12 Angry Men",
+        "upVotes": 9,
+        "date": "Mar 20 2021 10:00:00 AM"
+    },
+    {
+        "title": "Schindler's List",
+        "upVotes": 10,
+        "date": "Mar 24 2021 10:00:00 AM"
+    },
+    {
+        "title": "Pulp Fiction",
+        "upVotes": 12,
+        "date": "Jan 11 2021 10:00:00 AM"
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "upVotes": 13,
+        "date": "Jan 13 2021 10:00:00 AM"
+    },
+    {
+        "title": "Inception",
+        "upVotes": 14,
+        "date": "Jan 11 2021 10:00:00 AM"
+    },
+    {
+        "title": "Forrest Gump",
+        "upVotes": 15,
+        "date": "Feb 23 2021 10:00:00 AM"
+    },
+    {
+        "title": "Star Wars",
+        "upVotes": 16,
+        "date": "Feb 11 2021 10:00:00 AM"
+    },
+    {
+        "title": "The Lord of the Rings",
+        "upVotes": 17,
+        "date": "Jan 30 2021 10:00:00 AM"
+    },
+    {
+        "title": "Fight Club",
+        "upVotes": 18,
+        "date": "Jan 20 2021 10:00:00 AM"
+    },
+    {
+        "title": "The Good, the Bad and the Ugly",
+        "upVotes": 19,
+        "date": "Feb 15 2021 10:00:00 AM"
+    }
+]
+
