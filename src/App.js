@@ -8,7 +8,7 @@ import Typography from '@material-ui/core/Typography';
 
 const useStyles = makeStyles((theme) => ({
 	root: { margin: '10px', overflow: 'hidden' },
-	rootDiv: { margin: '10px', overflow: 'hidden', height: '580px' },
+	rootDiv: { overflow: 'hidden', height: '580px' },
 	header: {
 		backgroundColor: '#80808096',
 		padding: theme.spacing(2),
